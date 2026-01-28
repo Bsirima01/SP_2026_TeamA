@@ -1,0 +1,12 @@
+01/27 - Souley
+
+Teach wants us to search these Statistical models to thik outside the box: 
+- Cox Proportional Hazards (PH) model 
+- Accelerated failure time model 
+- Kaplan-Meier (KM) model 
+
+Next assignments due Feb 3 
+- 2 litterature reviews per person 
+- PPTX + proposal 
+
+01/28
